@@ -12,4 +12,5 @@ III
 wechat
 qq-wechat
 12306
+aliyun
 
